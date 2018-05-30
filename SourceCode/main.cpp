@@ -52,7 +52,6 @@ int main()
 	cout << "!---信源解码后的信息为---!" << endl << endl;
 	cout << SourceDecodeResult << endl << endl;
 	cout << "!---谢谢使用-----通信系统仿真结束---!" << endl << endl;
-	cout << "!---作者：高宇达---!" << endl << endl;
 	cout << "!---小猪嘎嘎---!" << endl << endl;
 	cout << "!---掌管天堂的空之王者，于地狱唱响荣光之歌---!" << endl << endl;
 
