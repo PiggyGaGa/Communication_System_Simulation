@@ -412,7 +412,7 @@ ThreeTimes类是三次重复信道编码译码类，包含两个公有的函数�
 ![](http://or6i73qhr.bkt.clouddn.com/blog/six/middle.png)
 输出选定的参数，让运行程序者进一步确定是否是自己想要的参数，然后继续执行程序。
 ## 第三步对各个模块的结果进行输出
-![](http://or6i73qhr.bkt.clouddn.com/blog/six/result.png)
+![](http://or6i73qhr.bkt.clouddn.com/blog/sixx/result.png)
 
 # 总结
 
